@@ -24,14 +24,14 @@
 - 발표자 기준으로 진행이 되나, 다른 팀원들도 공부해와야 합니다.
 - 발표 길이는 길지 않아도 무방합니다. (훑는 정도여도 무방, 발표 부담 줄이기)
 
-| Week | 일정 | 내용 | 발표자 | 교재 챕터 |
-| ---- | --- | --- | ----- | -------- |
-| 1 | 9/11 | Introduction to Operating Systems, The Process, Process API<br/>Limited Direct Execution, Scheduling: Introduction, MLFQ | 김현준<br/>방형욱 | 01 ~ 08 |
-| 2 | 9/18 | Scheduling: Proportion Share, Multiprocessor Scheduling, Address Spaces<br/>Memory API, Address Translation, Segmentation | 김민균<br/>김건희 | 09 ~ 16 |
-| 3 | 9/25 | Free-Space Management, Paging: Introduction<br/>Paging: Faster Translations, Smaller Tables, Mechanisms<br/>Swapping: Policies, Concurrency, Thread API | 박정환<br/>박성현 | 17 ~ 27 |
-| 4 | 10/9<br/>(비대면) | Locks, Lock-based Concurrent Data Structures<br/>Condition Variables, Semaphores | 김현준<br/>방형욱 | 28 ~ 31 |
-| 5 | 10/16 | Common Concurrency Problems, I/O Devices<br/>Hard Disk Drives, RAIDs | 김민균<br/>김건희 | 32 ~ 38 |
-| 6 | 10/30 | File and Directories, File System Implementation<br/>Locality and The Fast File System, Crash Consistency<br/>Log-structured File Systems, Flash-based SSDs | 박정환<br/>박성현 | 39 ~ 44 |
+| Week | 일정              | 내용                                                                                                                                                        | 발표자            | 교재 챕터 |
+| ---- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------- |
+| 1    | 9/11              | Introduction to Operating Systems, The Process, Process API<br/>Limited Direct Execution, Scheduling: Introduction, MLFQ                                    | 김현준<br/>방형욱 | 01 ~ 08   |
+| 2    | 9/18              | Scheduling: Proportion Share, Multiprocessor Scheduling, Address Spaces<br/>Memory API, Address Translation, Segmentation                                   | 김민균<br/>김건희 | 09 ~ 16   |
+| 3    | 9/25              | Free-Space Management, Paging: Introduction<br/>Paging: Faster Translations, Smaller Tables, Mechanisms<br/>Swapping: Policies, Concurrency, Thread API     | 박정환<br/>박성현 | 17 ~ 27   |
+| 4    | 10/9<br/>(비대면) | Locks, Lock-based Concurrent Data Structures<br/>Condition Variables, Semaphores                                                                            | 김현준<br/>방형욱 | 28 ~ 31   |
+| 5    | 10/16             | Common Concurrency Problems, I/O Devices<br/>Hard Disk Drives, RAIDs                                                                                        | 김민균<br/>김건희 | 32 ~ 38   |
+| 6    | 10/30             | File and Directories, File System Implementation<br/>Locality and The Fast File System, Crash Consistency<br/>Log-structured File Systems, Flash-based SSDs | 박정환<br/>박성현 | 39 ~ 44   |
 
 ## 🗂 Conventions
 
@@ -41,7 +41,7 @@
 - markdown에 필요한 asset들은 챕터별 디렉토리 안에 asset 디렉토리를 따로 생성해서 거기에 올려주세요.
 - PR 만드실 때 브랜치는 main에서 `ch1_읍읍읍`으로 생성해주세요.
 - Commit message는 특별한 규정을 두지 않겠습니다.
-  
+
 ## 🥤 페널티
 
 - 불참 OR 해당 주차 학습을 못했을 시 해당 주차 혹은 그 다음 주차에 커피 한잔씩 돌리기
@@ -51,4 +51,4 @@
 - [KAIST EE415](https://oslab.kaist.ac.kr/ee415-spring-2020/)
 - [OSSU OSTEP](https://github.com/ossu/computer-science/tree/master/coursepages/ostep)
 - [lyndon316's note](https://lyndon316.notion.site/25-98bb50c2a09d4151a11fb5bc41cacfe2?pvs=4)
-- [KU CYDF216]() <!-- Should be filled after Announcement -->
+- [KU CYDF216](https://kucss.notion.site/Operating-Systems-2023-Fall-6c79f88273cb487d8a63efa35db7d79a)
