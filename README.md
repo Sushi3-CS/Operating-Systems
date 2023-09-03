@@ -1,6 +1,6 @@
 # 운영체제 스터디
 
-![OSTEP.png](./cover_image.png)
+![OSTEP.jpg](./cover_image.jpg)
 
 ## 📖 교재
 
