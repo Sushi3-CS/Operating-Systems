@@ -45,3 +45,10 @@
 ## 🥤 페널티
 
 - 불참 OR 해당 주차 학습을 못했을 시 해당 주차 혹은 그 다음 주차에 커피 한잔씩 돌리기
+
+## Reference
+
+- [KAIST EE415](https://oslab.kaist.ac.kr/ee415-spring-2020/)
+- [OSSU OSTEP](https://github.com/ossu/computer-science/tree/master/coursepages/ostep)
+- [lyndon316's note](https://lyndon316.notion.site/25-98bb50c2a09d4151a11fb5bc41cacfe2?pvs=4)
+- [KU CYDF216]() <!-- Should be filled after Announcement -->
