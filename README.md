@@ -28,8 +28,8 @@
 | ---- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------- |
 | 1    | 9/11              | Introduction to Operating Systems, The Process, Process API<br/>Limited Direct Execution, Scheduling: Introduction, MLFQ                                    | 김현준<br/>방형욱 | 01 ~ 08   |
 | 2    | 9/18              | Scheduling: Proportion Share, Multiprocessor Scheduling, Address Spaces<br/>Memory API, Address Translation, Segmentation                                   | 김민균<br/>김건희 | 09 ~ 16   |
-| 3    | 9/25              | Free-Space Management, Paging: Introduction<br/>Paging: Faster Translations, Smaller Tables, Mechanisms<br/>Swapping: Policies, Concurrency, Thread API     | 박정환<br/>박성현 | 17 ~ 27   |
-| 4    | 10/9<br/>(비대면) | Locks, Lock-based Concurrent Data Structures<br/>Condition Variables, Semaphores                                                                            | 김현준<br/>방형욱 | 28 ~ 31   |
+| 3    | 9/25              | Free-Space Management, Paging: Introduction<br/>Paging: Faster Translations, Smaller Tables, Mechanisms                                                     | 박정환<br/>박성현 | 17 ~ 24   |
+| 4    | 10/9<br/>(비대면) | Swapping: Policies, Concurrency, Thread API<br/>Locks, Lock-based Concurrent Data Structures<br/>Condition Variables, Semaphores                            | 김현준<br/>방형욱 | 25 ~ 31   |
 | 5    | 10/16             | Common Concurrency Problems, I/O Devices<br/>Hard Disk Drives, RAIDs                                                                                        | 김민균<br/>김건희 | 32 ~ 38   |
 | 6    | 10/30             | File and Directories, File System Implementation<br/>Locality and The Fast File System, Crash Consistency<br/>Log-structured File Systems, Flash-based SSDs | 박정환<br/>박성현 | 39 ~ 44   |
 
